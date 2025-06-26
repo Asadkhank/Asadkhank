@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Asadkhank
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Asad Ullah Khan (@Asadkhank)
 
-<!---
-Asadkhank/Asadkhank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Frontend Development, React.js, and building user-friendly web apps.
+- 🌱 I’m currently learning advanced React patterns and exploring Next.js.
+- 💬 Ask me about HTML, CSS, JavaScript, and React!
+- 💞️ I’m looking to collaborate on open-source frontend projects or UI/UX design improvements.
+- 📫 How to reach me: [uasad8770@gmail.com](mailto:uasad8770@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning creative ideas into responsive web interfaces.
